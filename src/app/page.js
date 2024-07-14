@@ -1,10 +1,10 @@
 import Image from "next/image";
-import Navbar from "./components/Navbar";
-import Header from "./components/Header";
-import Experience from "./components/Experience";
-import Skills from "./components/Skills";
-import Projects from "./components/Projects";
-import Footer from "./components/Footer";
+import Navbar from "./components/Navbar.jsx";
+import Header from "./components/Header.jsx";
+import Experience from "./components/Experience.jsx";
+import Skills from "./components/Skills.jsx";
+import Projects from "./components/Projects.jsx";
+import Footer from "./components/Footer.jsx";
 
 export default function Home() {
   return (
