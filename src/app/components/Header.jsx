@@ -35,7 +35,7 @@ function Header() {
         </div>
         <div className=' mt-9 sm:mt-0 col-span-12 md:col-span-6  flex md:justify-end justify-center'>
             <div className='rounded-full bg-[#FEFAE0] h-52 w-52'>
-                <Image src="/images/image.png" width={208} height={208} className='rounded-full'/>
+                <Image src="/images/vardhman.png" width={208} height={208} className='h-52 w-52 rounded-full'/>
             </div>
         </div>
     </div>
