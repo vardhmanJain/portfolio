@@ -4,7 +4,7 @@ import React from 'react'
 
 function Navbar() {
   return (
-    <div className='bg-gradient-to-b from-[#bc6c25] to-[#dda15e] py-2 flex flex-wrap items-center justify-between mx-auto px-7  text-white fixed top-0 left-0 right-0'>
+    <div className='bg-gradient-to-b from-[#bc6c25] to-[#dda15e] py-2 flex flex-wrap items-center justify-between mx-auto px-4 sm:px-5 text-white fixed top-0 left-0 right-0'>
         <div className='text-lg font-semibold tracking-wide'>
             Vardhman
         </div>
