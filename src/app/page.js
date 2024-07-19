@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <div>
       <Navbar/>
-      <main className="flex flex-col px-24 ">
+      <main className="flex flex-col px-16 sm:px-24 ">
         <Header/>
         <Experience/>
         <Skills/>
