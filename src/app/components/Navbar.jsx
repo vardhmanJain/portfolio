@@ -4,7 +4,7 @@ import React from 'react'
 
 function Navbar() {
   return (
-    <div className='py-2 flex flex-wrap items-center justify-between mx-auto px-4 sm:px-5  fixed top-0 left-0 right-0'>
+    <div className='bg-white bg-opacity-90 py-2 flex flex-wrap items-center justify-between mx-auto px-4 sm:px-5  fixed top-0 left-0 right-0'>
         <div className='text-base tracking-wide border-b-2 border-[#bc6c25]'>
             <Link href="/">vardhman.dev</Link>
         </div>
