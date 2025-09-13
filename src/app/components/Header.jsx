@@ -29,7 +29,7 @@ function Header() {
             </h1>
             <p className='text-sm text-black mt-4'>Computer Science Engineer with a zest for problem-solving</p>
             <div className='flex flex-col sm:flex-row '>
-              <button className='px-4 text-xs text-black mt-6 py-2 rounded-full bg-gradient-to-br from-[#bc6c25] via-[#dda15e] via-[#fefae0] to-[#bc6c25]'><Link target="_blank" href="https://drive.google.com/file/d/1cXz6D6yUR6KBi94ihznpwSFADlyaX2Ti/view?usp=drive_link">Download CV</Link></button>
+              <button className='px-4 text-xs text-black mt-6 py-2 rounded-full bg-gradient-to-br from-[#bc6c25] via-[#dda15e] via-[#fefae0] to-[#bc6c25]'><Link target="_blank" href="https://docs.google.com/document/d/1TmlVSLkg7btSu8CGj8DQ6lgYyQqQgtZYYh_AeXWRcak/edit?usp=sharing">Download CV</Link></button>
               <button className='px-4 text-xs text-black mt-6 py-2 rounded-full border-solid border-[1px] border-[#bc6c25] ml-2'><Link href="#projects">Projects</Link></button>
             </div>
         </div>
